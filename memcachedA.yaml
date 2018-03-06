@@ -1,7 +1,7 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: memcached-a
+  name: memcached-a-renamed
 spec:
   replicas: 1
   template:
