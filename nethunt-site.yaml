@@ -29,7 +29,7 @@ spec:
       - env:
         - name: CATALINA_OPTS
           value: -Dcom.nethunt.crm.site.GlobalFilter.noRedirect=true
-        image: gcr.io/steel-binder-91509/nethunt-site:v2018-02-27-b4
+        image: gcr.io/steel-binder-91509/nethunt-site:v2018-02-28-b1
         imagePullPolicy: Always
         livenessProbe:
           failureThreshold: 3
