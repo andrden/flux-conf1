@@ -1,0 +1,1 @@
+{"jobID":"92206f1c-3871-5e6d-aa62-beb2d3983ad0","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"default:deployment/nethunt-site":{"add":{"automated":"true"},"remove":{}}}},"result":null}
